@@ -2,7 +2,7 @@
   "name": "Linux Mint",
   "service": "qemu",
   "containerEnv": {
-    "BOOT": "mint"
+    "BOOT": "https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/debian-live-13.2.0-amd64-kde.iso"
   },
   "forwardPorts": [8006],
   "portsAttributes": {
